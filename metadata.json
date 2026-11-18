@@ -1,0 +1,6 @@
+{
+  "name": "东财智运 · 财富号自动化运营工作台",
+  "description": "面向零基础用户的东方财富财富号自动化运营效率工具，支持多账号容错轮换、Cookie智能解析、点选验证码工作台与修复版Python脚本一键导出。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
